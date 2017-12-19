@@ -1,2 +1,4 @@
 # CalendarFacts
-A fact generator based on an XKCD commic strip.
+A Javascript fact generator based on an XKCD commic strip.
+
+https://xkcd.com/1930/
